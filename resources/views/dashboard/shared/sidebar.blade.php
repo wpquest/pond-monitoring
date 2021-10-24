@@ -3,7 +3,7 @@
           <ul class="nav">
             <li class="nav-item">
               <a class="nav-link" href="/">
-                <i class="nav-icon icon-speedometer"></i> Dashboard
+                <i class="nav-icon icon-speedometer"></i> CHANGING
                 <span class="badge badge-primary">NEW</span>
               </a>
             </li>
@@ -167,7 +167,7 @@
             <li class="nav-title">Extras</li>
             <li class="nav-item nav-dropdown">
               <a class="nav-link nav-dropdown-toggle" href="#">
-                <i class="nav-icon icon-star"></i> Pages</a>
+                <i class="nav-icon icon-star"></i> Pags</a>
               <ul class="nav-dropdown-items">
                 <li class="nav-item">
                   <a class="nav-link" href="/login" target="_top">
@@ -193,7 +193,7 @@
             </li>
             <li class="nav-item">
               <a class="nav-link nav-link-danger" href="https://coreui.io/pro/" target="_top">
-                <i class="nav-icon icon-layers"></i> Try CoreUI
+                <i class="nav-icon icon-layers"></i> Try CorUI
                 <strong>PRO</strong>
               </a>
             </li>

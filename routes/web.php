@@ -14,6 +14,10 @@
 Route::group(['middleware' => ['get.menu']], function () {
     Route::get('/', function () {           return view('dashboard.homepage'); });
 
+    Route::get('/historical', 'HomeController@historical')->name('historical');
+    Route::get('/recorded', 'HomeController@recorded')->name('recorded');
+
+
     Route::group(['middleware' => ['role:user']], function () {
         Route::get('/colors', function () {     return view('dashboard.colors'); });
         Route::get('/typography', function () { return view('dashboard.typography'); });

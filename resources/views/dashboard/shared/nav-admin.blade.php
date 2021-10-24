@@ -4,7 +4,7 @@
           <li class="c-nav-item"><a class="c-nav-link" href="/">
               <svg class="c-nav-icon">
                 <use xlink:href="/assets/icons/coreui/free-symbol-defs.svg#cui-speedometer"></use>
-              </svg> Dashboard<span class="badge badge-info">NEW</span></a></li>
+              </svg> Real-Time<span class="badge badge-info">NEW</span></a></li>
           <li class="c-nav-title">Theme</li>
           <li class="c-nav-item"><a class="c-nav-link" href="/colors">
               <svg class="c-nav-icon">
@@ -109,7 +109,7 @@
           <li class="c-nav-item"><a class="c-nav-link c-nav-link-danger" href="https://coreui.io/pro/" target="_top">
               <svg class="c-nav-icon">
                 <use xlink:href="/assets/icons/coreui/free-symbol-defs.svg#cui-layers"></use>
-              </svg> Try CoreUI<strong>PRO</strong></a></li>
+              </svg> Try Core<strong>PRO</strong></a></li>
         </ul>
       </nav>
       <button class="c-sidebar-minimizer c-class-toggler" type="button" data-target="_parent" data-class="c-sidebar-minimized"></button>

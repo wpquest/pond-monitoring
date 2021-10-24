@@ -193,8 +193,8 @@ class MenusTableSeeder extends Seeder
             $this->insertLink('user,admin', 'Error 404',     '/404');
             $this->insertLink('user,admin', 'Error 500',     '/500');
         $this->endDropdown();
-        $this->insertLink('guest,user,admin', 'Download CoreUI', 'https://coreui.io', 'cil-cloud-download');
-        $this->insertLink('guest,user,admin', 'Try CoreUI PRO', 'https://coreui.io/pro/', 'cil-layers');
+        $this->insertLink('guest,user,admin', 'Download CoreUI', 'https://coreui.i', 'cil-cloud-download');
+        $this->insertLink('guest,user,admin', 'Try CorUI PRO', 'https://coreui.io/pro/', 'cil-layers');
 
 
         /* Create top menu */
